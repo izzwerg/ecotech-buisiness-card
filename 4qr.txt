@@ -1,0 +1,17 @@
+BEGIN:VCARD
+
+VERSION:3.0
+
+N:Руссу;Клим;;;
+
+FN:Клим Руссу
+
+ORG:ECOTECH UKRAINE;
+
+TEL;type=CELL;type=VOICE;type=pref:+380671674633
+
+EMAIL:K.Russu@ecotech.ua
+
+URL:https://russu.ecotech.ua/
+
+END:VCARD
